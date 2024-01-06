@@ -2,9 +2,6 @@
 
 First, thank you! We really appreciate that you're considering contributing to ZetaChain.
 
-## Ways to contribute
-
-There are many ways to contribute to ZetaChain, writing code is one of them. Others are improving our docs, or being part of the network by running a node.
 
 ## Your first contribution
 
